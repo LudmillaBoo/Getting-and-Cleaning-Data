@@ -24,4 +24,3 @@ and they are substituted in the dataset.
 * activities contains the correct activity names through the activities variable
 * *all_data* merges *x_data, y_data* and *subject_data* in a one dataset
 * *averages_data* contains the averagesGetting and Cleaning Data Course Project
-
